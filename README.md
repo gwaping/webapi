@@ -1,6 +1,6 @@
 "# Simple WebAPI by Gio Lavilla" 
 
-Simple REST API demo. GET
+Simple REST API demo. ( Programmed using Visual Studio 2015)
 
 To Install, Clone or download the file 
 
@@ -10,9 +10,11 @@ In the project directory open :
 
 WebApi.sln  
 
-Database used is sqlite.
+- Set Database Path.
 
-Database File path is declared in the constructor of SqliteConnection Class. 
+        Database used is sqlite.
+
+        Database File path is declared in the constructor of SqliteConnection Class. 
 
         public SqliteConnection()
         {
