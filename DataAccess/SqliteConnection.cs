@@ -16,6 +16,7 @@ namespace DataAccess
         {
 
             string sqliteDatabase = "C:\\Users\\admin\\Desktop\\Ombori\\WebApi\\DataAccess\\bin\\Release\\OmboriDB.db";
+                                   
             strConnection = String.Format("Data Source={0}", sqliteDatabase);
         }
 
