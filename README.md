@@ -38,5 +38,5 @@ Sample JSON Post
         "PatientId": "7"
   }
 
-
+Please also check Screenshot folder.
 
