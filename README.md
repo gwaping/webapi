@@ -27,6 +27,16 @@ WebApi.sln
 Headers :
         Content-Type application/json
         Authorization Basic b21ib3JpOm9tYm9yaQ==  // set this on post and delete to allow access 
+        
+Sample JSON Post
+ {
+        "ExpirationDate": "2020-02-24",
+        "ProductName": "Sample Product Name",
+        "UsesLeft": 1,
+        "Description": "Description Description",
+        "IsActive": false,
+        "PatientId": "7"
+  }
 
 
 
