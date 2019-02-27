@@ -24,7 +24,9 @@ WebApi.sln
         }
   
   
-  
+Headers :
+        Content-Type application/json
+        Authorization Basic b21ib3JpOm9tYm9yaQ==  // set this on post and delete to allow access 
 
 
 
